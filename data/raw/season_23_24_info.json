@@ -1,0 +1,205 @@
+{
+  "generated_at": "2024-10-17T15:47:46+00:00",
+  "season": {
+    "id": "sr:season:107903",
+    "name": "Bundesliga 23/24",
+    "start_date": "2023-08-24",
+    "end_date": "2024-06-02",
+    "year": "23/24",
+    "competition_id": "sr:competition:149",
+    "sport": {
+      "id": "sr:sport:6",
+      "name": "Handball"
+    },
+    "category": {
+      "id": "sr:category:53",
+      "name": "Germany",
+      "country_code": "DEU"
+    },
+    "competition": {
+      "id": "sr:competition:149",
+      "name": "Bundesliga",
+      "gender": "men"
+    }
+  },
+  "coverage": {
+    "type": "competition",
+    "competition_properties": {
+      "brackets": false,
+      "schedules": true,
+      "standings": "live",
+      "team_squads": true
+    },
+    "sport_event_properties": {
+      "basic_play_by_play": true,
+      "basic_player_stats": true,
+      "basic_team_stats": true,
+      "goal_scorers": true,
+      "lineups": true,
+      "scores": "live"
+    }
+  },
+  "stages": [
+    {
+      "order": 1,
+      "type": "league",
+      "phase": "regular season",
+      "start_date": "2023-08-24",
+      "end_date": "2024-06-02",
+      "year": "23/24",
+      "groups": [
+        {
+          "id": "sr:league:75771",
+          "name": "Bundesliga 23/24",
+          "competitors": [
+            {
+              "id": "sr:competitor:3982",
+              "name": "SC Magdeburg",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "SCM",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3993",
+              "name": "SG Flensburg-Handewitt",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "SGF",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3996",
+              "name": "TBV Lemgo Lippe",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "TBV",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3980",
+              "name": "THW Kiel",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "THW",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3994",
+              "name": "VfL Gummersbach",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "GUM",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3981",
+              "name": "ThSV Eisenach",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "EIS",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3984",
+              "name": "HSG Wetzlar",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "WET",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3995",
+              "name": "FRISCH AUF! Goppingen",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "FAG",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:3997",
+              "name": "HSV Hamburg",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "HSV",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:4004",
+              "name": "Rhein-Neckar Lowen",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "RNL",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:4007",
+              "name": "MT Melsungen",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "MTM",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:5463",
+              "name": "HBW Balingen-Weilstetten",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "HBW",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:5453",
+              "name": "Fuchse Berlin",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "BER",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:5447",
+              "name": "TSV Hannover-Burgdorf",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "HAN",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:6268",
+              "name": "Bergischer HC",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "BHC",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:6272",
+              "name": "TVB Stuttgart",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "TVB",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:7962",
+              "name": "SC DHfK Leipzig",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "LEI",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:6288",
+              "name": "HC Erlangen",
+              "country": "Germany",
+              "country_code": "DEU",
+              "abbreviation": "HCE",
+              "gender": "male"
+            }
+          ],
+          "max_rounds": 34
+        }
+      ]
+    }
+  ]
+}
